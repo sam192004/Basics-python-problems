@@ -4,7 +4,7 @@
 2. Calculate the sum of digits of a number.
 3. Reverse a string.
 4. Find the largest of three numbers.
-5. Print the Fibonacci sequence up to `n`.
+5. Count the number of digits in a number.
 6. Check if a number is prime.
 7. Find the factorial of a number.
 8. Count vowels in a string.
