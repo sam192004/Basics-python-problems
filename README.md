@@ -9,4 +9,4 @@
 7. Find the factorial of a number.
 8. Count vowels in a string.
 9. Print multiplication table of a given number.
-10. Check if a string is a palindrome.
+10. Check if a Number is a palindrome or not.
